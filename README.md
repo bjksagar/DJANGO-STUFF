@@ -1,2 +1,3 @@
 # DJANGO-STUFF
-Here I have stored some codes related to the djago web appplication Development
+Here I have stored some codes related to the djago web appplication Development.
+Also it contains some stuffs related to Djago Rest API
